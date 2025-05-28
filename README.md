@@ -8,5 +8,5 @@ So here are the changes:
 - Oh and also i added pretty trait... somewhere.
 
 Maybe later i will change something, but i needed original mod for an example how to do it.
-And idea behind it that i saw a mod makes possible to start as wolf/cat/etc people, but on last experimental version it didnt worked
-so at first i decided to port that mod, but then i thought easier would be to change that mod.
+And idea that behind it is that i saw a mod that makes possible to start as wolf/cat/etc people, but on last experimental version it didnt worked
+so at first i decided to port that mod, but then i thought easier would be to change this mod.
