@@ -6,9 +6,9 @@ This is a edit of a cdda mod named extra_mut_scen by Saicchi.
 (and also sorry for my english)
 
 So here are the changes:
-- I just made that you now can select all professions, not only ones mod allows.
+- I just did it so that now it would be possible to select all professions, not only the ones that mod allows.
 - Oh and also i added pretty trait... somewhere.
 
-Maybe later i will change something, but i needed original mod for an example how to do it.
-And idea that behind it is that i saw a mod that makes possible to start as wolf/cat/etc people, but on last experimental version it didnt worked
+Maybe later i will make this mod more original, but i just needed original mod for an example how to mod.
+And idea that behind it is that i saw a mod that makes it possible to start as wolf/cat/etc people, but on last experimental version it didnt worked
 so at first i decided to port that mod, but then i thought easier would be to change this mod.
