@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "extra_neko",
+    "name": "Extra Neko",
+    "authors": [ "Saicchi & small edit by mokoMoe" ], 
+    "description": "Extra scenarios with all possible mutation traits and thresholds.",
+    "category": "misc_additions",
+    "dependencies": [ "dda" ]
+  }
+]
